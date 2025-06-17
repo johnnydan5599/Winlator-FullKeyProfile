@@ -41,7 +41,7 @@ This profile removes the hassle of manual key remapping — just **import and st
 | **System Keys**   | `ESC`, `ENTER`, `TAB`, `BKSP`, `SPACE`, `INSERT`          |
 | **Modifiers**     | `CTRL_L`, `CTRL_R`, `SHIFT_L`, `SHIFT_R`, `ALT_L`, `ALT_R`|
 | **Arrow Keys**    | `UP`, `DOWN`, `LEFT`, `RIGHT`                              |
-| **Function Keys** | `F1` *(others can be added)*                               |
+| **Function Keys** | F1-F12
 | **Punctuation**   | `COMMA` *(more can be added later)*                        |
 
 > ⚠️ Note: This version excludes `F2–F12`, `PgUp`, `PgDn`, `Home`, `End`, etc. — those can be added manually if needed.
