@@ -1,74 +1,64 @@
-# Winlator-FullKeyProfile.icp
+# 🎮 Winlator Full Key Profile (`.icp`)
 
-A ready-to-use full keyboard mapping profile for **Winlator**, designed to unlock complete keyboard functionality — including essential keys like `ESC`, `ENTER`, arrow keys, and modifier keys — especially useful for Android users with limited or compact keyboards.
+A complete keyboard mapping profile for **Winlator**, designed to provide native-like support for essential and function keys that are otherwise missing or require manual remapping.  
 
----
-
-## 🔧 What is this?
-
-`Winlator-FullKeyProfile.icp` is a custom **Input Control Profile (.icp)** created for **Winlator**, a tool that allows you to run Windows apps and games on Android.  
-This profile removes the hassle of manual key remapping — just **import and start using**.
+> Perfect for keyboards like the **Logitech K400 Plus**, and tailored for gaming or productivity in your Winlator sessions.
 
 ---
 
 ## ✅ Features
 
-- Full **A–Z** and **0–9** key mapping  
-- Essential system keys: `ESC`, `ENTER`, `TAB`, `BKSP`, `SPACE`, `INSERT`  
-- Modifier keys: `CTRL_L`, `CTRL_R`, `SHIFT_L`, `SHIFT_R`, `ALT_L`, `ALT_R`  
-- Arrow keys: `↑`, `↓`, `←`, `→`  
-- Function key: `F1` *(additional function keys can be added later)*  
-- Optimized for devices like **Logitech K400 Plus**
+- Full **A–Z** letter key mappings
+- Complete **0–9** number key mappings
+- ✅ Essential keys:
+  - `Esc`, `Enter`, `Backspace`, `Tab`, `Space`, `Insert`, `Comma`
+- ✅ Modifier keys:
+  - `Shift (Left & Right)`, `Ctrl (Left & Right)`, `Alt (Left & Right)`
+- ✅ Arrow keys:
+  - `Up`, `Down`, `Left`, `Right`
+- ✅ Function keys:
+  - `F1` through `F12` included
 
 ---
 
-## 📥 How to Use
+## 🚫 Not Yet Included
 
-1. **Download**: [Winlator-FullKeyProfile.icp](./Winlator-FullKeyProfile.icp)  
-2. Open the **Winlator** app on your Android device.  
-3. Go to **Input Controls** → **Import Profile**  
-4. Select the downloaded file: `Winlator-FullKeyProfile.icp`  
-5. Apply the profile to your container — done!
+This profile currently **does not** include:
 
----
+- Navigation keys:
+  - `Page Up`, `Page Down`, `Home`, `End`
+- Multimedia keys or mouse button bindings
+- Windows key or OS-specific modifiers
 
-## 🧭 Key Mapping Summary
-
-| Category          | Keys Included                                              |
-|------------------|-------------------------------------------------------------|
-| **Alphabets**     | A–Z                                                        |
-| **Numbers**       | 0–9                                                        |
-| **System Keys**   | `ESC`, `ENTER`, `TAB`, `BKSP`, `SPACE`, `INSERT`          |
-| **Modifiers**     | `CTRL_L`, `CTRL_R`, `SHIFT_L`, `SHIFT_R`, `ALT_L`, `ALT_R`|
-| **Arrow Keys**    | `UP`, `DOWN`, `LEFT`, `RIGHT`                              |
-| **Function Keys** | F1-F12
-| **Punctuation**   | `COMMA` *(more can be added later)*                        |
-
-> ⚠️ Note: This version excludes `F2–F12`, `PgUp`, `PgDn`, `Home`, `End`, etc. — those can be added manually if needed.
+> These features may be added in future updates depending on device support and user needs.
 
 ---
 
-## 💡 Why This Exists
+## 📥 How to Use in Winlator
 
-Native key support in **Winlator** is often incomplete — especially for keys like `ESC` or `ENTER` — which are critical for gaming and app use.  
-This profile was created to make things easy for the community: **Just import, no hassle**.
-
----
-
-## 🤝 Contributions Welcome
-
-Want to enhance this profile or adapt it for other devices?
-
-- Fork the repo  
-- Submit improvements or new versions  
-- Help other users in the Winlator community
+1. Open the **Winlator** app.
+2. Go to **Input Controls**.
+3. Tap **Import Profile**.
+4. Choose the downloaded file:  
+   📄 `Winlator-FullKeyProfile.icp`
+5. Done! Your keyboard is now fully mapped.
 
 ---
 
-## 📜 License
+## 📂 File Info
 
-This project is licensed under the [MIT License](./LICENSE).
+- **Filename:** `Winlator-FullKeyProfile.icp`
+- **Format:** JSON-based input control profile
+- **Tested with:** Logitech K400 Plus
+- **Author:** [Johnnydan5599](https://github.com/johnnydan5599)
+- **License:** MIT
 
 ---
 
-Made with ❤️ for the Winlator community by [johnnydan5599](https://github.com/johnnydan5599)
+## 🙌 Community Support
+
+This profile was created to make it easier for the Winlator community to get started with full keyboard input without using third-party remapping tools.
+
+Feel free to open issues or pull requests for enhancements or compatibility fixes.
+
+---
